@@ -89,6 +89,8 @@ By default, icons will use the current font color (`currentColor`). this color c
 match the current theme's colors using the `color` attribute. This can be changed to
 `'primary'`, `'accent'`, or `'warn'`.
 
+<!-- example(icon-svg-theme) -->
+
 ### Accessibility
 
 Similar to an `<img>` element, an icon alone does not convey any useful information for a
